@@ -45,13 +45,6 @@ section[epub|type~="epigraph"] > *{
 }
 /* End full-page epigraphs */
 
-/* Prayers at end of chapters */
-section[epub|type~="chapter"] > p:last-child{
-	font-style: italic;
-	margin-top: 1em;
-}
-/* End prayers at end of chapters */
-
 /* Inline verse */
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
