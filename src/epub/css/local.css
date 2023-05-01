@@ -1,10 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-footer{
-	margin-top: 1em;
-	text-align: right;
-}
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
@@ -18,21 +14,6 @@ footer{
 	margin-top: 1em;
 }
 /* End all epigraphs */
-
-/* Epigraphs in section headers */
-section > header [epub|type~="epigraph"]{
-	display: inline-block;
-	margin: auto;
-	max-width: 80%;
-	text-align: initial;
-}
-
-@supports(display: table){
-	section > header [epub|type~="epigraph"]{
-		display: table;
-	}
-}
-/* End epigraphs in section headers */
 
 /* Full-page epigraphs */
 section[epub|type~="epigraph"]{
@@ -77,10 +58,6 @@ section[epub|type~="chapter"] > p:last-child{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] p + p{
-	margin-top: 1em;
-}
-
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
@@ -93,12 +70,30 @@ section[epub|type~="chapter"] > p:last-child{
 /* End inline verse */
 
 /* Letters (preface/introduction) */
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
 }
 
+[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:sender"],
+[epub|type~="z3998:recipient"],
+[epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-align: initial;
+	text-indent: 0;
+}
+
 /* End letters */
