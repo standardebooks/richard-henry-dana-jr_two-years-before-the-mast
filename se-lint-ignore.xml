@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-*.xhtml">
-   		<ignore>
+		<ignore>
 			<code>t-042</code>
 			<reason>Dana ends sentences with no punctuation before some dates.</reason>
 		</ignore>
