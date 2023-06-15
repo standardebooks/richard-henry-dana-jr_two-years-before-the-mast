@@ -112,5 +112,5 @@ dfn{
 }
 
 blockquote:nth-of-type(4) header p:last-child{
-text-align: right;
+	text-align: right;
 }
