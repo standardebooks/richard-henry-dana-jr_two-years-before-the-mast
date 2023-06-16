@@ -85,6 +85,9 @@
 		<dc:contributor id="transcriber-1">Robert E. Brewer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Brewer, Robert E.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Haines, Al</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Kevin Palm</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Palm, Kevin</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
