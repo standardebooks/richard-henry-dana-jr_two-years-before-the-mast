@@ -58,7 +58,9 @@
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2055</dc:source>
+		<!--Epigraph, Preface, Chapters 1-37-->
 		<dc:source>https://books.google.com/books?id=_uwxAQAAMAAJ</dc:source>
+		<!--Chapter 38-->
 		<dc:source>https://archive.org/details/twoyearsbeforema0000henr</dc:source>
 		<meta property="se:production-notes">SE edition is a combination of a 1916 MacMillan edition and a 1912 E.P. Dutton &amp; Co. edition for "Twenty-Four Years After"</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
