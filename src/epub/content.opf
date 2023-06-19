@@ -62,7 +62,7 @@
 		<dc:source>https://books.google.com/books?id=_uwxAQAAMAAJ</dc:source>
 		<!--Chapter 38-->
 		<dc:source>https://archive.org/details/twoyearsbeforema0000henr</dc:source>
-		<meta property="se:production-notes">SE edition is a combination of a 1916 MacMillan edition and a 1912 E.P. Dutton &amp; Co. edition for "Twenty-Four Years After"</meta>
+		<meta property="se:production-notes">SE edition is a combination of a 1916 MacMillan edition and a 1912 E.P. Dutton &amp; Co. edition for "Twenty-Four Years After".  Changed longitude from 166 to 116 in Chapter 30 iaw PG editor's note: [Editor's note: the "166°" in the following paragraph is clearly an error, with "116°" actually meant. Longitude 166° would have put the ship southwest of the Sandwich Islands. However, this printing error goes back to at least an 1869 edition of this book.]</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Two_Years_Before_the_Mast</meta>
