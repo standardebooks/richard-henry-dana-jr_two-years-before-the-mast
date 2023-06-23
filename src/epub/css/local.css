@@ -6,6 +6,7 @@ blockquote[xml|lang]{
 	font-style: italic;
 }
 
+
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
@@ -50,39 +51,25 @@ section[epub|type~="epigraph"] > *{
 }
 /* End full-page epigraphs */
 
-/* Inline verse */
-[epub|type~="z3998:verse"] p{
-	text-align: initial;
-	text-indent: 0;
-}
-
-[epub|type~="z3998:verse"] p > span{
-	display: block;
-	padding-left: 1em;
-	text-indent: -1em;
-}
-
-[epub|type~="z3998:verse"] p > span + br{
-	display: none;
-}
-/* End inline verse */
-
-/* Inline song */
+/* Inline verse/song */
+[epub|type~="z3998:verse"] p,
 [epub|type~="z3998:song"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
+[epub|type~="z3998:verse"] p > span,
 [epub|type~="z3998:song"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
-[epub|type~="z3998:song"] p > span + br{
+[epub|type~="z3998:verse"] p > span + br,
+[epub|type~="z3998:song"] p > span + br{	
 	display: none;
 }
-/* End inline song */
+/* End inline verse/song */
 
 /* Letters (preface/introduction) */
 [epub|type~="z3998:letter"] header{
