@@ -106,8 +106,13 @@ dfn{
 	font-style: italic;
 }
 
+#chapter-38 blockquote:nth-of-type(4) header p:first-child{
+	font-style: italic;
+}
+
 #chapter-38 blockquote:nth-of-type(4) header p:last-child{
 	text-align: right;
+	font-style: italic;
 }
 
 [epub|type~="se:era"]{
