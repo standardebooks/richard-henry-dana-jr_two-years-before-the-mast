@@ -85,6 +85,10 @@ footer{
 	text-indent: 0;
 }
 
+[epub|type~="z3998:recipient"]{
+	text-align: left;
+}
+
 [epub|type~="z3998:sender"],
 [epub|type~="z3998:recipient"],
 [epub|type~="z3998:salutation"],
