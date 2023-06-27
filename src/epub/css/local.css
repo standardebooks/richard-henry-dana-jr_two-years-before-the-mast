@@ -106,13 +106,16 @@ dfn{
 	font-style: italic;
 }
 
-#chapter-38 blockquote:nth-of-type(4) header p:first-child{
+#chapter-38 blockquote:nth-of-type(4) header{
 	font-style: italic;
 }
-
+  
+#chapter-38 blockquote:nth-of-type(4) header i{
+	font-style: normal;
+}
+  
 #chapter-38 blockquote:nth-of-type(4) header p:last-child{
 	text-align: right;
-	font-style: italic;
 }
 
 [epub|type~="se:era"]{
@@ -125,4 +128,8 @@ dfn{
 	max-width: 60%;
 	text-align: justify;
 	text-indent: 0;
+}
+
+[epub|type~="bridgehead"] i{
+	font-style: normal;
 }
