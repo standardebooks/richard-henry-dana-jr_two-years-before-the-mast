@@ -109,11 +109,11 @@ dfn{
 #chapter-38 blockquote:nth-of-type(4) header{
 	font-style: italic;
 }
-  
+
 #chapter-38 blockquote:nth-of-type(4) header i{
 	font-style: normal;
 }
-  
+
 #chapter-38 blockquote:nth-of-type(4) header p:last-child{
 	text-align: right;
 }
