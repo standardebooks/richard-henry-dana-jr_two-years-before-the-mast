@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/richard-henry-dana-jr/two-years-before-the-mast</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-06-29T21:07:15Z</dc:date>
+		<meta property="dcterms:modified">2023-06-29T21:07:15Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -52,8 +52,9 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">A Harvard student embarks on a two-year voyage as a sailor aboard a merchant ship, exposing the harsh conditions of life at sea in the 19th century.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/richard-henry-dana-jr"&gt;Richard Henry Dana, Jr.&lt;/a&gt; entered Harvard in 1831 but was forced to abandon his studies after two years due to eye trouble resulting from his contracting measles. Convinced that it would help cure his affliction, Dana ships out as a common seaman onboard the American merchant ship &lt;i&gt;Pilgrim &lt;/i&gt;. The ship left Boston on 14 August 1834, just two weeks after his nineteenth birthday, on a mission to then-Mexican California to collect animal hides. From the moment he steps on board, Dana is confronted with the grueling and demanding nature of his new life at sea. He describes in vivid detail the brutal working conditions, the treacherous storms and heavy labor required to operate a sailing ship, and the oppressive hierarchy among the crew. As the Pilgrim embarks on its journey along the Pacific coast, Dana narrates his encounters with various landscapes, including the bustling ports of California, the vast expanses of the Pacific Ocean, and the rugged beauty of the California coastline. He also provides insights into the lives and cultures of the people he encounters, such as the Californian rancheros and the indigenous peoples of the region. Dana’s writing often verges on the poetic, with evocative descriptions of the California coast as well as the icy wilderness surrounding Cape Horn.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Two Years Before the Mast&lt;/i&gt; serves as an important historical document, shedding light on the often overlooked experiences of common sailors and the realities of the merchant trade. Dana’s memoir continues to resonate with readers, captivating them with its authenticity, descriptive power, and the unique perspective it offers on 19th century maritime life. It remains a classic work of literature that stands the test of time, transporting readers to a bygone era filled with adventure, hardship, and the relentless beauty of the sea.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/richard-henry-dana-jr"&gt;Richard Henry Dana, Jr.&lt;/a&gt; entered Harvard in 1831 but was forced to abandon his studies after two years due to eye trouble caused by measles. Dana ships out as a common seaman onboard the American merchant ship &lt;i&gt;Pilgrim &lt;/i&gt;, convinced that time at sea would help cure his affliction. The ship left Boston on August 14, 1834, just two weeks after his nineteenth birthday, on a mission to then-Mexican California to collect animal hides.&lt;/p&gt;
+			&lt;p&gt;From the moment he steps on board, Dana is confronted with the grueling nature of life at sea. He describes in vivid detail the brutal working conditions, the treacherous storms, the heavy labor required to operate a sailing ship, and the oppressive hierarchy among the crew. As the &lt;i&gt;Pilgrim &lt;/i&gt; embarks on its journey along the Pacific coast, Dana describes his encounters with various landscapes, including the bustling ports of California, the vast expanses of the Pacific Ocean, and the rugged beauty of the California coastline. He also provides insight into the lives and cultures of the people he encounters, like the Californian rancheros and the indigenous peoples of the region. Dana’s writing often verges on the poetic, with evocative descriptions of the California coast as well as the icy wilderness surrounding Cape Horn.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Two Years Before the Mast&lt;/i&gt; serves as an important historical document, shedding light on the often-overlooked experiences of common sailors and the realities of the merchant trade. Dana’s memoir continues to resonate with readers, captivating them with its authenticity, descriptive power, and the unique perspective it offers on 19th century maritime life. It transports readers to a bygone era filled with adventure, hardship, and the relentless beauty of the sea.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition is based on a 1916 reprint of the 1909 Macmillan Company publication, with the addition of an epilogue of sorts, “Twenty-Four Years After,” which chronicles Dana’s return to California in 1859 to revisit the places and people he wrote about in the original work. Also included are notes on the text by Homer Eaton Keyes, Assistant Professor of Art at Dartmouth College.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
@@ -63,8 +64,8 @@
 		<!--Chapter 38-->
 		<dc:source>https://archive.org/details/twoyearsbeforema0000henr</dc:source>
 		<meta property="se:production-notes">The SE edition is a combination of a 1916 MacMillan edition and a 1912 E.P. Dutton &amp; Co. edition for "Twenty-Four Years After". Changed longitude from 166 to 116 in Chapter 30 in accordance with PG editor's note: [Editor's note: the "166°" in the following paragraph is clearly an error, with "116°" actually meant. Longitude 166° would have put the ship southwest of the Sandwich Islands. However, this printing error goes back to at least an 1869 edition of this book.] Chapter 30: Changed July 18th to July 8th to correct error.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">165746</meta>
+		<meta property="se:reading-ease.flesch">68.94</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Two_Years_Before_the_Mast</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/richard-henry-dana-jr_two-years-before-the-mast</meta>
 		<dc:creator id="author">Richard Henry Dana Jr.</dc:creator>
@@ -98,6 +99,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
