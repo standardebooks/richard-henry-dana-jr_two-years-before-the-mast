@@ -48,8 +48,7 @@
 		<meta property="term" refines="#subject-3">sh85144443</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85119329</meta>
-		<meta property="se:subject">Biography</meta>
-		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Travel</meta>
 		<dc:description id="description">A Harvard student embarks on a two-year voyage as a sailor aboard a merchant ship, exposing the harsh conditions of life at sea in the 19th century.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/richard-henry-dana-jr"&gt;Richard Henry Dana Jr.&lt;/a&gt; entered Harvard in 1831 but was forced to abandon his studies after two years due to eye trouble caused by measles. Dana ships out as a common seaman onboard the American merchant ship &lt;i&gt;Pilgrim &lt;/i&gt;, convinced that time at sea would help cure his affliction. The ship left Boston on August 14, 1834, just two weeks after his nineteenth birthday, on a mission to then-Mexican California to collect animal hides.&lt;/p&gt;
