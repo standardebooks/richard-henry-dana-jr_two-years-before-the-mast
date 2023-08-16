@@ -2,7 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-*.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-003</code>
 			<reason>Dana ends sentences with no punctuation before some dates.</reason>
 		</ignore>
 	</file>
