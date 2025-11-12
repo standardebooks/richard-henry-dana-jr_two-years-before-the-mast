@@ -72,8 +72,8 @@
 		<meta property="file-as" refines="#author">Jr., Richard Henry Dana</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Richard_Henry_Dana_Jr.</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79053869</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="annotator">Homer Eaton Keyes</dc:contributor>
 		<meta property="file-as" refines="#annotator">Keyes, Homer Eaton</meta>
@@ -98,8 +98,8 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com/</meta>
