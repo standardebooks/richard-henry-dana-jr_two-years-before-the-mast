@@ -36,7 +36,7 @@
 		<dc:title id="fulltitle">Two Years Before the Mast: A Personal Narrative of Life at Sea</dc:title>
 		<meta property="file-as" refines="#fulltitle">Two Years Before the Mast: A Personal Narrative of Life at Sea</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
-		<meta property="dcterms:alternate" refines="#title">2 Years Before the Mast</meta>
+		<meta property="dcterms:alternative" refines="#title">2 Years Before the Mast</meta>
 		<dc:subject id="subject-1">Seafaring life</dc:subject>
 		<dc:subject id="subject-2">Dana, Richard Henry, 1815-1882</dc:subject>
 		<dc:subject id="subject-3">Voyages and travels</dc:subject>
